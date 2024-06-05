@@ -1,0 +1,6 @@
+@INDEX_RPG_API_HostAddress = http://localhost:5054
+
+GET {{INDEX_RPG_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

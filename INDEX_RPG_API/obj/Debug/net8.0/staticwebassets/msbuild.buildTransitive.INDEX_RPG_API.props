@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\INDEX_RPG_API.props" />
+</Project>
